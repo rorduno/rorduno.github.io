@@ -15,6 +15,26 @@
       { 
         "name" : "denzel washington",
         "email" : "dman@washington.com"
-      }
+      },
+      { 
+        "name" : "paul simon",
+        "email" : "pauly@simon.com"
+      },
+      { 
+        "name" : "barry obeezy",
+        "email" : "prez@usa.com"
+      },
+      { 
+        "name" : "nina simone",
+        "email" : "nina@simone.com"
+      },
+      { 
+        "name" : "bill sunny",
+        "email" : "billsunny@yahoo.com"
+      },
+      { 
+        "name" : "kiko orduno",
+        "email" : "kiko@orduno.com"
+      }       
     ]
 }
