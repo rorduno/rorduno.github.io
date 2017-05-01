@@ -1,0 +1,2 @@
+/** An empty service worker! */
+
